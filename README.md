@@ -1,1 +1,1 @@
-# test
+nikola 'output' files
